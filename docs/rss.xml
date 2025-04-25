@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://eddiehome220.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://eddiehome220.github.io</link></image><lastBuildDate>Thu, 24 Apr 2025 14:16:23 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>🥗 饮食管理</title><link>https://eddiehome220.github.io/post/%F0%9F%A5%97%20-yin-shi-guan-li.html</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://eddiehome220.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://eddiehome220.github.io</link></image><lastBuildDate>Fri, 25 Apr 2025 06:47:51 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>🥗 饮食管理</title><link>https://eddiehome220.github.io/post/%F0%9F%A5%97%20-yin-shi-guan-li.html</link><description>
 ​分类​ | ​菜名​ | ​核心技术指标​ | ​耗时​ | ​衍生菜品​ | ​最佳搭配​ | ​保存方案​
 -- | -- | -- | -- | -- | -- | --
 ​面点类​ | 万能馄饨皮 | 延展性0.1mm/三醒三揉工艺 | 90分钟 | 煎饺/蒸饺/手擀面 | 酸辣汤底 | 生胚冷冻30天
@@ -39,9 +39,11 @@
 ​​时间​​ | ​​事项​​ | ​​地点/工具​​ | ​​特别准备​​
 -- | -- | -- | --
 ​​07:30-08:20​​ | 自驾通勤 | 车载导航优化路线 | 🌤️ 19℃ 开窗通风
-​​08:30-11:30​​ | 系统开发收尾 | 办公室（完成测试模块） | 💻 空调26℃ 薄毯备用
-​​11:30-13:00​​ | 午休+考前物资检查 | 504休息室（含15分钟小睡） | 📝 核对：准考证/文具/水杯
-​​13:00-16:00​​ | 临时工作处理 | 居家办公（优先处理紧急事务） | 🚪 免打扰模式启用
+​08:30-09:00​​ | 1. 预约车辆2. 提交结项材料 | 办公室（完成测试模块） | 💻 空调26℃ 薄毯备用
+10:00-11:00 |1. 车辆充电 2. 休息调整 |
+11:00-12:00 |外出吃饭
+​​12:00-13:30​​ | 午休+考前物资检查 | 504休息室（含15分钟小睡） | 📝 核对：准考证/文具/水杯
+​​13:30-16:00​​ | 临时工作处理 | 居家办公（优先处理紧急事务） | 🚪 免打扰模式启用
 ​​16:00-16:30​​ | 考前路线踩点 | 高德地图实时路况 | 🚗 加满油+检查胎压
 ​​16:30-17:30​​ | 自驾赴浙工大 | 文一路→留石高架→潮王路 | ⏱️ 预留20分钟缓冲时间
 ​​17:30-18:30​​ | 校园熟悉+晚餐 | 浙工大食堂（避开高峰时段） | 🍱 选择清淡餐食
