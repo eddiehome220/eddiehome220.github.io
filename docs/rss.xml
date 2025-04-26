@@ -1,5 +1,68 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://eddiehome220.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://eddiehome220.github.io</link></image><lastBuildDate>Sat, 26 Apr 2025 17:57:23 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>日程</title><link>https://eddiehome220.github.io/post/ri-cheng.html</link><description>📅 2025年4月27日（周日）日程安排​​
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://eddiehome220.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://eddiehome220.github.io</link></image><lastBuildDate>Sat, 26 Apr 2025 18:01:20 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>日程</title><link>https://eddiehome220.github.io/post/ri-cheng.html</link><description>4月28日（周一）
+时间段 日程安排 
+7:00 - 8:00 起床洗漱，做简单伸展运动，准备早餐（燕麦粥、水煮蛋、水果） 
+8:00 - 9:00 送孩子上学（若有），自驾或乘坐公共交通通勤上班 
+9:00 - 12:00 处理工作事务，回复邮件、参加部门会议、推进项目任务 
+12:00 - 13:00 午餐，适当休息片刻 
+13:00 - 17:00 继续工作，与同事讨论工作方案、整理文件资料 
+17:00 - 18:00 下班通勤回家，途中在便利店或超市购买晚餐食材 
+18:00 - 19:00 准备晚餐（炒时蔬、清蒸鱼等） 
+19:00 - 20:00 晚餐后，和家人一起收拾餐桌和厨房 
+20:00 - 21:30 陪孩子做作业、阅读绘本或进行亲子游戏（若无孩子，看电影或休闲活动） 
+21:30 - 22:30 洗漱，准备休息 
+
+4月29日（周二）
+时间段 日程安排 
+7:00 - 8:00 起床，做一组简单的瑜伽动作，准备早餐（三明治、热牛奶） 
+8:00 - 9:00 送孩子上学后去上班 
+9:00 - 12:00 专注于工作，完成重要任务，如撰写报告、处理客户咨询 
+12:00 - 13:00 午餐，在公司附近散步消化 
+13:00 - 17:00 参加线上培训课程或与合作伙伴进行视频会议 
+17:00 - 18:00 下班回家，顺路取快递 
+18:00 - 19:00 烹饪晚餐（意大利面搭配蔬菜沙拉） 
+19:00 - 20:00 用餐后，和家人聊天分享一天的经历 
+20:00 - 21:30 自我提升学习（如学语言或技能）或听音乐放松 
+21:30 - 22:30 洗漱睡觉 
+
+4月30日（周三）
+时间段 日程安排 
+7:00 - 8:00 起床，慢跑或进行其他有氧运动，准备早餐（小米粥、蒸饺） 
+8:00 - 9:00 送孩子上学后前往工作地点 
+9:00 - 12:00 完成工作任务，组织团队内部头脑风暴会议 
+12:00 - 13:00 午餐，午休片刻 
+13:00 - 17:00 根据头脑风暴结果，制定详细工作计划并分配任务 
+17:00 - 18:00 下班，去附近的健身房锻炼半小时（若有健身习惯） 
+18:00 - 19:00 回家准备晚餐（红烧肉搭配米饭和汤） 
+19:00 - 20:00 晚餐后，和家人一起玩桌游 
+20:00 - 21:30 陪孩子洗澡、讲故事，哄孩子入睡 
+21:30 - 22:30 自己洗漱，阅读书籍放松 
+
+5月1日（周四，劳动节）
+时间段 日程安排 
+8:00 - 9:00 自然醒，洗漱后准备丰盛早餐（煎蛋、培根、面包、果汁） 
+9:00 - 12:00 和家人一起进行家庭大扫除，整理房间，给绿植浇水 
+12:00 - 13:00 午餐，可选择叫外卖或简单烹饪 
+13:00 - 17:00 前往附近的公园或郊外游玩，进行野餐活动，亲子互动游戏或散步 
+17:00 - 18:00 返程回家 
+18:00 - 19:00 准备晚餐（烤鸡翅、炒时蔬等） 
+19:00 - 20:00 晚餐后，一起看一部有趣的家庭电影 
+20:00 - 21:30 洗漱，回顾一天的美好时光 
+21:30 - 22:30 休息 
+
+5月2日（周五）
+时间段 日程安排 
+8:00 - 9:00 起床洗漱，准备早餐（豆腐脑、油条） 
+9:00 - 12:00 完成未完成的家务或进行手工制作（如DIY相册、编织小物件） 
+12:00 - 13:00 午餐，稍作休息 
+13:00 - 17:00 去商场购物，购买生活用品和换季衣物；或去书店逛逛，挑选书籍 
+17:00 - 18:00 回家，处理购物物品，整理衣物 
+18:00 - 19:00 做一顿美味的晚餐（如火锅，准备各种食材） 
+19:00 - 20:00 晚餐后，和家人一起玩电子游戏或聊天 
+20:00 - 21:30 洗漱，为新的一周做准备（整理衣物、准备工作物品） 
+21:30 - 22:30 休息 
+
+📅 2025年4月27日（周日）日程安排​​
 ​​🌤️ 杭州天气：晴转多云 16-25℃ | 湿度55% | 西南风2级​​
 ​​👔 智能穿衣建议​​：
 白天：速干T恤+防晒衣（户外活动）
