@@ -1,47 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://eddiehome220.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://eddiehome220.github.io</link></image><lastBuildDate>Sat, 26 Apr 2025 17:21:01 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>111</title><link>https://eddiehome220.github.io/post/111.html</link><description>📅2025年4月26日（周六）日程安排
-🌧️ 杭州天气：小雨 17-22℃ | 湿度75% | 东北风3级
-☔ 特别提示：考场可能开启空调，备薄外套
-​​06:30-07:00​​ | 早餐 | 高蛋白慢碳组合（如鸡蛋燕麦） | 🥛 避免过量饮水
--- | -- | -- | --
-​​07:00-07:30​​ | 交通出发 | 选择地铁2号线（备用雨衣） | 🚇 实时监控地铁延误
-​​07:30-08:30​​ | 考场候场 | 提前激活电子准考证 | 📱 充电宝满电
-​​09:00-11:30​​ | 《综合应用能力》考试 | 考场静候（不干扰考生） | 🕶️ 防蓝光眼镜备用
-​​11:30-13:00​​ | 午餐+午休 | 考点周边安静餐厅 | 🍜 忌生冷/重口味
-​​13:00-14:00​​ | 考点二次确认 | 核对下午考场编号 | 🗂️ 文件防水袋封装
-​​14:00-15:30​​ | 《职业能力倾向测验》考试 | 考场外应急等候区 | ☎ 保持手机畅通
-​​15:30-16:00​​ | 考后情绪疏导 | 自然话题转移（如晚餐选择） | 🎵 准备轻松音乐
-​​16:00-17:00​​ | 返程交通 | 视天气选择打车/地铁 | 🌂 折叠伞随身
-🔍 ​​优化建议​​：
-25日晚可提前将26日所需物品装入「考试专用包」（参考4月21日暴雨日备份习惯）
-利用4月19日「极速洗车」经验，25日中午可快速清洁车辆
-陪考期间可携带4月20日使用的「自然探索工具包」消磨等待时间
-饮食参照4月23日「盒马采购」清单，备坚果等健康零食
-
-📅2025年4月25日（周五）日程安排
-🌤️ 杭州天气：多云 19-26℃ | 湿度60% | 东南风2级
-👔 智能穿衣指南
-白天建议：POLO衫+薄西装外套（正式场合备用）
-傍晚建议：透气速干T恤+防晒衣（校园内步行）
-​​时间​​ | ​​事项​​ | ​​地点/工具​​ | ​​特别准备​​
--- | -- | -- | --
-​​07:30-08:20​​ | 自驾通勤 | 车载导航优化路线 | 🌤️ 19℃ 开窗通风
-​08:30-09:00​​ | 1. 预约车辆2. 提交结项材料 | 办公室（完成测试模块） | 💻 空调26℃ 薄毯备用
-10:00-11:00 |1. 车辆充电 2. 休息调整 |
-11:00-12:00 |外出吃饭
-​​12:00-13:30​​ | 午休+考前物资检查 | 504休息室（含15分钟小睡） | 📝 核对：准考证/文具/水杯
-​​13:30-16:00​​ | 临时工作处理 | 居家办公（优先处理紧急事务） | 🚪 免打扰模式启用
-​​16:00-16:30​​ | 考前路线踩点 | 高德地图实时路况 | 🚗 加满油+检查胎压
-​​16:30-17:30​​ | 自驾赴浙工大 | 文一路→留石高架→潮王路 | ⏱️ 预留20分钟缓冲时间
-​​17:30-18:30​​ | 校园熟悉+晚餐 | 浙工大食堂（避开高峰时段） | 🍱 选择清淡餐食
-​​18:30-20:00​​ | 考点环境适应 | 考场外围（确认卫生间/休息区） | 🧘 呼吸训练APP辅助
-​​20:00-21:30​​ | 返回住处+简单复习 | 酒店/亲友家（若需住宿） | 📚 重点看错题集
-​​21:30-22:00​​ | 亲子通话（如有） | 微信视频（稳定网络） | 👨👧 避免讨论考试内容
-​​22:00-22:30​​ | 入睡准备 | 白噪音+眼罩 | 🌙 室温调节至24℃
-
-📅2025 年 4 月 24 日（周四）日程安排
-🌤️ 天气预设：参考杭州近期天气（多云 / 小雨交替，18 - 24℃）
-智能穿衣建议：薄长袖 + 防风外套（备折叠伞），室内空调 26℃建议搭配薄毯。</description><guid isPermaLink="true">https://eddiehome220.github.io/post/111.html</guid><pubDate>Sat, 26 Apr 2025 17:20:37 +0000</pubDate></item><item><title>🥗 饮食管理</title><link>https://eddiehome220.github.io/post/%F0%9F%A5%97%20-yin-shi-guan-li.html</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://eddiehome220.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://eddiehome220.github.io</link></image><lastBuildDate>Sat, 26 Apr 2025 17:30:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>🥗 饮食管理</title><link>https://eddiehome220.github.io/post/%F0%9F%A5%97%20-yin-shi-guan-li.html</link><description>
 ​分类​ | ​菜名​ | ​核心技术指标​ | ​耗时​ | ​衍生菜品​ | ​最佳搭配​ | ​保存方案​
 -- | -- | -- | -- | -- | -- | --
 ​面点类​ | 万能馄饨皮 | 延展性0.1mm/三醒三揉工艺 | 90分钟 | 煎饺/蒸饺/手擀面 | 酸辣汤底 | 生胚冷冻30天
