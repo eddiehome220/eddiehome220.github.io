@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://eddiehome220.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://eddiehome220.github.io</link></image><lastBuildDate>Sun, 27 Apr 2025 08:14:19 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>宝宝成长笔记</title><link>https://eddiehome220.github.io/post/bao-bao-cheng-chang-bi-ji.html</link><guid isPermaLink="true">https://eddiehome220.github.io/post/bao-bao-cheng-chang-bi-ji.html</guid><pubDate>Sun, 27 Apr 2025 07:46:36 +0000</pubDate></item><item><title>🥗饮食管理</title><link>https://eddiehome220.github.io/post/%F0%9F%A5%97-yin-shi-guan-li.html</link><description>家庭菜谱
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://eddiehome220.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://eddiehome220.github.io</link></image><lastBuildDate>Sun, 27 Apr 2025 11:30:14 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>宝宝成长笔记</title><link>https://eddiehome220.github.io/post/bao-bao-cheng-chang-bi-ji.html</link><guid isPermaLink="true">https://eddiehome220.github.io/post/bao-bao-cheng-chang-bi-ji.html</guid><pubDate>Sun, 27 Apr 2025 07:46:36 +0000</pubDate></item><item><title>🥗饮食管理</title><link>https://eddiehome220.github.io/post/%F0%9F%A5%97-yin-shi-guan-li.html</link><description>家庭菜谱
 
 日期​ | ​餐次​ | ​大人菜谱​ | ​宝宝菜谱​ | ​烹饪小贴士​ | ​采购清单​
 -- | -- | -- | -- | -- | --
@@ -41,10 +41,15 @@
 08:45-09:00 | 公众号审核 | - 快速扫读推文，标注版权问题⚠️- @小编：「急需补充 CC0 协议！」🚨 | 🔍 「审核像找茬，细节控的日常」
 09:00-09:10 | VP 维护 | - 重启服务器，群内同步状态💻- 记录台账，喝口咖啡续能☕ | ⚙️ 「服务器满血复活，我还能再战！」
 09:10-10:00 | 学生事务处理 | - 审批实习证明📄- 沟通「心理健康周」活动细节🤝 | 📚 「左手文件，右手沟通， multitasking 王者」
-12:00-12:30 | 午餐 &amp; 散步 | - 低卡套餐：清蒸鱼 + 糙米饭🍚- 园区散步 5 分钟，晒晒太阳🌞 | 🍴 「吃饭不看手机，认真咀嚼幸福」
-18:00-19:00 | 家庭晚餐 + 亲子互动 | - 快速做饭（微波炉助攻🍳）- 陪 Green 玩「形状配对」游戏🧩 | 👨👧 「厨房战场 vs 亲子乐园，无缝切换」
-20:00-21:30 | 亲子哄睡流程 | - 洗澡（水温 38℃刚刚好🛁）- 共读绘本《晚安，工地上的车》📖- 喝奶 + 白噪音哄睡😴 | 🌙 「一天中最柔软的时光，值得慢慢浪费」
-21:30-22:30 | 个人提升 &amp; 明日准备 | - 优化下周日程模板📅- 准备早餐食材（预约煮粥⏲️） | 📚 「今日事今日毕，明日事有计划」
+11:00-12:00 | 回家带饭 | - 开车回家（25 分钟），从冰箱取预制菜（番茄牛腩 + 清炒时蔬）- 用保温饭盒分装（菜饭分离防串味），放入车载保温袋 | 车载保温袋（6 小时恒温）提前解冻时蔬 | 🏃「归心似箭，带饭使命必达」前一日多做晚餐备餐
+12:00-13:00 | 家庭午餐 | - 微波炉加热饭菜，全家用餐（Green 尝试用训练筷）- 用餐后餐具直接放入洗碗机，节省清洁时间 | 儿童餐椅 + 硅胶围兜播放轻音乐助消化 | 🍴「全家干饭时间，沉浸式进食 15 分钟」避免边吃边玩手机
+13:00-13:30 | 接家人返单位 | - 帮 Green 穿外出服（连体衣 + 防晒帽），打包尿布包（4 片尿不湿 + 湿巾）- 自驾返岗（20 分钟），途中播放白噪音儿歌安抚 | 婴儿背带备用后备箱固定婴儿推车 | 🚗「全家出动，小车厢里的温馨时光」检查安全座椅卡扣是否牢固
+13:30-15:00 | 整理 AI 菜谱 | - 用 AI 工具生成 3 道辅食菜谱（关键词：「2 岁宝宝 手指食物 低敏」）- 筛选菜谱录入 Notion，标注食材采购优先级（如鳕鱼 / 西兰花） | 调用「美食杰 AI」接口共享菜谱文档 @家人 | 🧑🍳「AI 大厨上线，明天辅食不重样」排除虾仁 / 蛋清等易过敏食材
+16:40-17:20 | 自驾至天街 | - 路线：单位→秋石高架→天街（35 分钟）- 停车场拍照记录位置（B2 层 D 区 12 号），打开婴儿推车 | 高德地图「商场模式」导航车载遮阳帘 | 🚗💨「周末溜娃模式启动，目标：亲子友好商场」途中避免宝宝提前入睡
+17:20-18:00 | 家庭晚餐 | - 选择商场 3 楼亲子餐厅（提供儿童餐具 + 围兜）- 点餐：番茄牛肉面（成人）+ 蒸蛋羹（宝宝），上菜速度≤10 分钟 | 大众点评提前取号自带消毒湿巾擦桌椅 | 🍜「快速用餐策略：现蒸菜优先，拒绝排队」鼓励 Green 自主舀食锻炼手眼协调
+18:00-18:30 | 陪娃逛商场 | - 路线：1 楼中庭（音乐喷泉）→ 玩具区（软胶玩具体验）- 互动：指认颜色气球，引导宝宝说出「球」「红」等词汇 | 防走失绳（人群密集时使用）避开电子屏区域 | 🛍️「逛 gai 限定：只看不买，体验式溜娃」控制刺激强度，避免过度兴奋
+18:30-19:20 | 返程 + 途中哄睡 | - 超市快速采购（鸡蛋 + 酸奶），自助结账节省时间- 自驾回家，播放白噪音《雨夜小夜曲》，提供安抚奶嘴 + 小熊公仔 | 后备箱分区：食品区 + 用品区车内温度 22℃ | 🌙「车程哄睡术：白噪音 + 昏暗灯光无缝衔接」到家后轻抱转移至床上，避免惊醒
+
 
 📅 2025年4月26日（周六）日程安排
 🌧️ 杭州天气：小雨 17-22℃ | 湿度75% | 东北风3级
