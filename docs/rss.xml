@@ -1,5 +1,58 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://eddiehome220.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://eddiehome220.github.io</link></image><lastBuildDate>Sun, 27 Apr 2025 11:30:14 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>宝宝成长笔记</title><link>https://eddiehome220.github.io/post/bao-bao-cheng-chang-bi-ji.html</link><guid isPermaLink="true">https://eddiehome220.github.io/post/bao-bao-cheng-chang-bi-ji.html</guid><pubDate>Sun, 27 Apr 2025 07:46:36 +0000</pubDate></item><item><title>🥗饮食管理</title><link>https://eddiehome220.github.io/post/%F0%9F%A5%97-yin-shi-guan-li.html</link><description>家庭菜谱
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://eddiehome220.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://eddiehome220.github.io</link></image><lastBuildDate>Sun, 27 Apr 2025 11:34:38 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>宝宝成长笔记</title><link>https://eddiehome220.github.io/post/bao-bao-cheng-chang-bi-ji.html</link><description>### **🏃 大运动训练库**  
+**目标**：提升平衡、协调、力量  
+| 活动名称          | 具体方法                                                                 | 进阶建议                  |
+|-------------------|--------------------------------------------------------------------------|---------------------------|
+| 1. 单杠小勇士     | 双手抓握低单杠悬垂，家长扶腰保护                                         | 逐渐延长至10秒            |
+| 2. 障碍赛道       | 用靠垫、爬行隧道、独木桥（木板）组合路线                                 | 加入计时增加趣味性        |
+| 3. 平衡大师       | 走马路牙子/胶带直线；站摇摇板保持平衡                                    | 单手扶→独立站立           |
+| 4. 翻滚小将       | 软垫上连续侧翻或前滚翻                                                   | 尝试翻跟头后自己站起来    |
+| 5. 投掷能手       | 向篮筐/盆里投软球（距离1米）                                             | 拉远距离或换小号球        |
+| 6. 楼梯冒险家     | 扶栏杆交替脚上下矮台阶（3-4阶）                                          | 不扶栏杆缓慢上下          |
+
+### **✋ 精细动作训练库**  
+**目标**：锻炼手眼协调、手指灵活性  
+| 活动名称          | 具体方法                                                                 | 进阶建议                  |
+|-------------------|--------------------------------------------------------------------------|---------------------------|
+| 1. 串珠工程师     | 大孔木珠+粗绳穿线                                                        | 换小孔珠或更长绳子        |
+| 2. 夹子指挥官     | 用塑料夹子转移绒球/积木到碗中                                            | 换镊子夹更小物品          |
+| 3. 切切乐小厨神   | 木质玩具刀切水果/蔬菜模型                                                | 加入“菜板”模拟真实场景    |
+| 4. 拼插建筑师     | 大块拼插积木/磁力片组合                                                  | 搭简单房子或动物形状      |
+| 5. 涂鸦艺术家     | 可水洗蜡笔在大纸上自由涂画                                               | 引导画直线/圆圈           |
+| 6. 勺子搬运工     | 用勺子将豆子/谷物从一个碗舀到另一个碗                                     | 换小勺或增加重量          |
+
+### **🗣️ 语言认知训练库**  
+**目标**：促进表达、理解与认知发展  
+| 活动名称          | 具体方法                                                                 | 进阶建议                  |
+|-------------------|--------------------------------------------------------------------------|---------------------------|
+| 1. 儿歌点唱机     | 跟唱简单儿歌（如《小星星》），配合动作                                   | 尝试自己唱完整句          |
+| 2. 绘本小老师     | 共读绘本后让宝宝指认图中物品（“小狗在哪里？”）                           | 鼓励描述画面（“狗在跑”）  |
+| 3. 小小复读机     | 模仿大人说短句（如“我要喝水”）                                           | 增加句子长度（“妈妈拿水”）|
+| 4. 颜色侦探       | 分类红/黄/蓝积木或卡片                                                   | 加入绿色/紫色等           |
+| 5. 数字小精灵     | 数楼梯台阶/玩具（1-3）                                                   | 扩展到1-5                 |
+| 6. 角色扮演       | 玩“过家家”（喂娃娃、打电话）                                             | 加入情景对话              |
+
+### **👫 社交与生活技能库**  
+**目标**：培养自理能力与社交意识  
+| 活动名称          | 具体方法                                                                 | 进阶建议                  |
+|-------------------|--------------------------------------------------------------------------|---------------------------|
+| 1. 自主进食训练   | 提供手指食物（胡萝卜条、西兰花）自己吃                                   | 学习用勺子挖稠粥          |
+| 2. 家务小帮手     | 递衣服、扔垃圾等简单任务                                                 | 给玩具“擦灰”              |
+| 3. 打招呼练习     | 见面说“嗨”、离开挥手“拜拜”                                               | 加入“谢谢”“请”等          |
+| 4. 情绪认知       | 用表情卡片识别开心/生气                                                  | 引导说出感受（“我难过”）  |
+| 5. 轮流游戏       | 和大人轮流推车/叠积木                                                    | 设置简单规则（“等3秒”）   |
+
+### **🍎 饮食调整建议库**  
+**目标**：改善挑食，均衡营养  
+| 策略              | 具体方法                                                                 | 推荐食谱                  |
+|-------------------|--------------------------------------------------------------------------|---------------------------|
+| 1. 隐形蔬菜       | 菠菜碎混入肉饼/虾泥，南瓜泥拌米饭                                        | 西兰花奶酪蛋羹            |
+| 2. 趣味造型       | 用模具压卡通饭团，摆成笑脸图案                                           | 小熊造型三明治            |
+| 3. 自主选择权     | 提供2种蔬菜让宝宝选（“吃豌豆还是胡萝卜？”）                               | 彩虹蔬菜拼盘              |
+| 4. 参与制作       | 一起洗水果、撕生菜叶                                                     | 水果酸奶杯（自己组装）    |
+
+### **📌 使用说明**  
+1. **每日搭配建议**：从每类库中选1-2项组合（如：大运动+精细动作+语言）。</description><guid isPermaLink="true">https://eddiehome220.github.io/post/bao-bao-cheng-chang-bi-ji.html</guid><pubDate>Sun, 27 Apr 2025 07:46:36 +0000</pubDate></item><item><title>🥗饮食管理</title><link>https://eddiehome220.github.io/post/%F0%9F%A5%97-yin-shi-guan-li.html</link><description>家庭菜谱
 
 日期​ | ​餐次​ | ​大人菜谱​ | ​宝宝菜谱​ | ​烹饪小贴士​ | ​采购清单​
 -- | -- | -- | -- | -- | --
