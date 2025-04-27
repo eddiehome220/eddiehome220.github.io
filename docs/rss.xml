@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://eddiehome220.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://eddiehome220.github.io</link></image><lastBuildDate>Sun, 27 Apr 2025 06:15:02 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>🥗饮食管理</title><link>https://eddiehome220.github.io/post/%F0%9F%A5%97-yin-shi-guan-li.html</link><description>家庭菜谱
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://eddiehome220.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://eddiehome220.github.io</link></image><lastBuildDate>Sun, 27 Apr 2025 06:42:08 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>🥗饮食管理</title><link>https://eddiehome220.github.io/post/%F0%9F%A5%97-yin-shi-guan-li.html</link><description>家庭菜谱
 
 日期​ | ​餐次​ | ​大人菜谱​ | ​宝宝菜谱​ | ​烹饪小贴士​ | ​采购清单​
 -- | -- | -- | -- | -- | --
@@ -21,52 +21,7 @@
 ​🥞鸡蛋煎饼​ | ​面糊​：面粉1勺 + 水4勺 + 盐少许，混合均匀​做法​：1. 不粘锅涂油，摊薄面糊2. 翻面后打鸡蛋摊匀3. 撒葱花、秘制酱料4. 可加料：土豆丝、榨菜、油条碎、脆饼、生菜、火腿肠、培根、牛肉 | 🫔卷饼、🥨脆片、🌮手抓饼改良版 | 面糊可冷藏24小时备用 ⏳
 ​🥟馄饨皮​ | ​配方​：110g面粉 + 50g水（分次加）​步骤​：1. 混合后静置20分钟⏳2. 揉光滑，再静置20分钟⏳3. 擀薄，切指定形状 | 🍜馄饨皮汤、🍝手擀面、🥟锅贴、🥟煎包、🥟蒸饺、🫓千层饼、🌯春卷 | 可冷冻保存30天 ❄️
 ​🍖猪蹄​ | ​预处理​：1. 烧猪皮去腥🔥2. 切块 + 料酒 + 姜片焯水​做法​：可炖、烤、凉拌 | 🍲蹄花汤、🌶️椒盐猪蹄、🔥烤猪蹄、🥘黄豆焖猪蹄、🥗凉拌猪蹄 | 卤制后可冷冻60天 ❄️
-
- 延伸菜​ 
-​菜品​ | ​做法​ | ​搭配建议​
--- | -- | --
-🥟 馄饨皮延伸菜​ 
-🍲馄饨皮汤 | 高汤煮沸 + 馄饨皮切丝 + 鸡蛋皮 + 虾皮 + 紫菜 + 榨菜 | 🥖配油条碎/🌱葱花
-🍝手擀面 | 馄饨皮切宽条，煮3分钟⏳ | 🐮牛肉臊子/🍆炸酱
-🥟锅贴/煎包 | 包馅后煎至底部金黄，加水焖熟 | 🍶醋+🌶️辣椒油蘸碟
-🌯春卷 | 包入蔬菜丝/肉馅，油炸至脆 | 🍯甜辣酱
-🐷猪蹄延伸菜​ 
-🍲蹄花汤 | 猪蹄 + 白芸豆炖至脱骨，汤色奶白 | 🔥蘸水（红油+🧄蒜末+🍶酱油）
-🌶️椒盐猪蹄 | 卤熟后油炸，撒椒盐+辣椒粉 | 🎇外酥里糯
-🥗凉拌猪蹄 | 拆骨切条 + 香菜+蒜水+红油+花生碎 | 😋酸辣开胃
-
-🍁12个月应季蔬菜全攻略（附推荐菜谱）🌱
-月份 | 应季蔬菜（🌟重点推荐） | 经典搭配 | 储存技巧
--- | -- | -- | --
-​1月​ | 🥬大白菜、🥕胡萝卜、🍠红薯、🌰板栗 | 白菜猪肉炖粉条 | 阴凉通风处储存
-​2月​ | 🥦西兰花、🍄香菇、🎍冬笋、🧅洋葱 | 香菇炒冬笋 | 冷藏保存
-​3月​ | 🌱春笋、🍃菠菜、🥬荠菜、🌿香椿 | 香椿炒鸡蛋 | 香椿焯水冷冻
-​4月​ | 🥒黄瓜、🍅番茄、🌶️青椒、🍆茄子 | 凉拌黄瓜 | 常温避光
-​5月​ | 🫑毛豆、🥬苋菜、🌿空心菜、🍃油麦菜 | 清炒空心菜 | 冷藏+湿纸巾包裹
-​6月​ | 🍈苦瓜、🥒丝瓜、🌽玉米 | 苦瓜炒蛋 | 苦瓜去籽冷藏
-​7月​ | 🍆长茄、🥬秋葵、🌿紫苏 | 凉拌秋葵 | 秋葵不要洗直接冷藏
-​8月​ | 🥬莲藕、🌰菱角、🎃南瓜、🍠山药 | 莲藕排骨汤 | 莲藕泡水防氧化
-​9月​ | 🍄蘑菇、🌰栗子、🥦花菜、🍁芋头 | 栗子烧鸡 | 栗子冷冻保存
-​10月​ | 🥬茭白、🌰银杏、🍂萝卜、🍁南瓜 | 油焖茭白 | 茭白冷藏保存
-​11月​ | 🥬大葱、🧄大蒜、🥔土豆、🍠紫薯 | 葱爆羊肉 | 土豆避光防发芽
-​12月​ | 🥬冬寒菜、🍂白萝卜、🥬塌菜 | 萝卜炖牛腩 | 萝卜去叶冷藏
-
-​🍎 12个月应季水果全攻略
-​月份​ | ​应季水果​ | ​明星品种​ | ​每日建议量​
--- | -- | -- | --
-​1月​ | 🍊砂糖橘、🍎苹果、🍐梨 | 赣南脐橙、新疆香梨 | 成人200g/宝宝50g
-​2月​ | 🍓草莓、🍍菠萝、🥝猕猴桃 | 丹东草莓、徐闻菠萝 | 草莓≤5颗/次（宝宝）
-​3月​ | 🍈枇杷、🍋柠檬、🫐蓝莓 | 米易枇杷、云南蓝莓 | 枇杷去核切小块
-​4月​ | 🍒樱桃、🍍凤梨、🥭芒果 | 大连美早樱桃、台农芒果 | 芒果切丁防过敏
-​5月​ | 🍉西瓜、🍑水蜜桃、🍇夏黑葡萄 | 8424西瓜、阳山水蜜桃 | 西瓜去籽冷藏后吃
-​6月​ | 🫐杨梅、🍈荔枝、🍋莲雾 | 仙居杨梅、妃子笑荔枝 | 荔枝≤3颗/次（防上火）
-​7月​ | 🍑黄桃、🍈龙眼、🍇晴王葡萄 | 炎陵黄桃、泰国龙眼 | 龙眼去核防噎
-​8月​ | 🥝石榴、🍈哈密瓜、🍑蟠桃 | 突尼斯软籽石榴、西州蜜 | 石榴榨汁过滤
-​9月​ | 🍎柚子、🍐柿子、🍇阳光玫瑰 | 琯溪蜜柚、火晶柿子 | 柿子去涩后少量
-​10月​ | 🍊柑橘、🍎冬枣、🍈甘蔗 | 爱媛果冻橙、沾化冬枣 | 甘蔗切段防戳伤
-​11月​ | 🍎苹果、🍊金桔、🍓树莓 | 阿克苏苹果、融安金桔 | 金桔对半去籽
-​12月​ | 🍓甘蔗、🍊脐橙、🍎山楂 | 黑皮甘蔗、秭归脐橙 | 山楂煮水去酸
-。</description><guid isPermaLink="true">https://eddiehome220.github.io/post/%F0%9F%A5%97-yin-shi-guan-li.html</guid><pubDate>Wed, 23 Apr 2025 08:50:31 +0000</pubDate></item><item><title>📅日程管理</title><link>https://eddiehome220.github.io/post/%F0%9F%93%85-ri-cheng-guan-li.html</link><description>📅 2025年4月28日（周一）日程安排
+青椒肉丝 | 食材：猪里脊肉 200g、青椒 3 个、葱丝 10g、姜末 5g、蒜末 5g腌肉料：清水 2 勺、生抽 1 勺、淀粉 1 勺、料酒半勺料汁：生抽 1 勺、老抽半勺、蚝油 1 勺、白糖半勺、盐少许、清水小半碗步骤：1. 猪里脊肉逆纹切长 8-10cm 细丝，加清水、生抽、淀粉、料酒抓匀腌 10 分钟；青椒去籽切等长细丝。</description><guid isPermaLink="true">https://eddiehome220.github.io/post/%F0%9F%A5%97-yin-shi-guan-li.html</guid><pubDate>Wed, 23 Apr 2025 08:50:31 +0000</pubDate></item><item><title>📅日程管理</title><link>https://eddiehome220.github.io/post/%F0%9F%93%85-ri-cheng-guan-li.html</link><description>📅 2025年4月28日（周一）日程安排
 气温：16-24℃ | 穿衣建议：薄外套 + 长袖 T 恤​
 时间段 | 事项 | 具体内容 | 工具 / 注意事项 | 表情包
 -- | -- | -- | -- | --
