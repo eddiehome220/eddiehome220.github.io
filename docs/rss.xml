@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://eddiehome220.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://eddiehome220.github.io</link></image><lastBuildDate>Mon, 28 Apr 2025 14:31:16 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>宝宝成长笔记</title><link>https://eddiehome220.github.io/post/bao-bao-cheng-chang-bi-ji.html</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://eddiehome220.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://eddiehome220.github.io</link></image><lastBuildDate>Mon, 28 Apr 2025 14:40:00 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>宝宝成长笔记</title><link>https://eddiehome220.github.io/post/bao-bao-cheng-chang-bi-ji.html</link><description>
 4 月 29 日成长计划表格
 时间 | 训练类别 | 活动名称 | 具体方法 / 内容 | 进阶目标 / 注意事项 | 安全提示
 -- | -- | -- | -- | -- | --
@@ -52,11 +52,13 @@
 ​13:00-14:00​ | 修改结项材料 | ▪ 重点修订：- 补充第三章数据图表- 校对风险报告措辞▪ PDF加密后邮件提交 | 🔐 使用「亿赛通」文档加密📧 抄送直属领导+密送档案室
 ​14:00-15:00​ | 评估网站增补材料 | ▪ 上传：- 学生心理健康活动照片（压缩至2MB内）- 自评报告终版（PDF+Word双格式） | 🖼️ 用「图压」批量处理图片🌐 提前测试浏览器兼容性（Chrome/Firefox双验证）
 ​15:00-16:00​ | 财务处理+证明开具 | ▪ 优先级：1. 报销3-4月差旅费（贴发票扫描件）2. 批量打印10份在读证明（自助机） | 🧾 发票按日期排序装订🖨️ 证明文件加盖电子章（需插KEY）
-17:30-18:30 | 烹饪晚餐 + 亲子互动 | - 快速炒菜（微波炉预处理食材）- 邀请 Green 洗蔬菜（安全波浪刀）- 播放轻音乐（音量≤40 分贝） | 智能厨电联动儿童安全围裙 | 👨👩👧「厨房小帮手上线」
-19:00-20:00 | 亲子游戏 + 运动 | - 单杠训练（5 分钟）+ 指压板行走- 家长陪练：举娃深蹲（10 次 ×3 组）- 记录 Green 运动时长（运动手环监测） | 安全护具 + 早教玩具鼠标室内温度 24℃ | 🏋️「全家动起来，健康无死角」
-20:00-20:20 | Green 洗澡 | - 暖风机预热浴室至 28℃- 水温 38℃，防滑垫 + 小黄鸭陪洗- 速干浴巾包裹，避免着凉 | 水温计 + 沐浴露稀释 10 倍 | 🛁「泡泡时光，萌娃超配合」
-20:20-21:20 | 亲子共读 + 哄睡 | - 共读《晚安，工地上的车》- 智能冲奶机自动出奶（150ml）- 白噪音 + 重力毯引导深睡 | 暖光阅读灯 + 婴儿监护仪 | 🌙「绘本 + 奶，一夜好眠」
-21:30-23:00 | 工作复盘 + 明日准备 | - 整理宿舍检查报告（重点问题标红）- 优化评估发言 PPT（补充数据图表）- 预约早餐食材（煮粥） | 防蓝光眼镜 + 文档加密Notion 待办清单 | 📊「今日事今日毕，数据说话」
+​​16:50-17:30​​ | 自驾回家 | ▪ 路线：绕行秋石高架（避开晚高峰堵点）▪ 车载收听《得到头条》热点新闻 | 📱 高德地图「实时路况」+空调预设24℃（节能模式）
+-- | -- | -- | --
+​​17:30-18:00​​ | 晚餐 | ▪ 快手菜：- 微波炉清蒸鸡胸肉（提前腌制）- 水煮西兰花+杂粮饭（电饭煲预约） | ⏲️ 使用「小米智能餐盘」计算热量摄入🍶 搭配无糖豆浆（补充植物蛋白）
+​​18:20-21:00​​ | 银泰城行程 | ​​分段执行​​：1. ​​18:20-18:40​​ 骑行至地铁站（哈啰单车月卡，停靠E口）2. ​​18:45-19:30​​ 地铁9号线（临平方向，末班车23:12）3. ​​19:30-20:50​​ 银泰城活动：- B1层「奈雪の茶」买欧包（小程序提前下单）- 2楼优衣库换季T恤（目标款：UT系列浅灰L码）4. ​​20:50-21:00​​ 地铁返程 | 🚴 骑行穿反光背心（安全）🛍️ 购物清单存手机备忘录💳 支付统一用支付宝（积分抵扣）
+​​21:00-21:30​​ | 亲子洗澡时间 | ▪ 分工：- 家长先快速冲洗（10分钟）- Green玩浴盆玩具（水温38℃恒温）▪ 护肤：艾维诺润肤乳抚触 | 🛁 提前开浴霸预热🧴 备好防水手机袋（放儿歌）
+​​21:30-22:00​​ | 哄睡 | ▪ 流程：1. 喝温奶（150ml，45℃）2. 讲《小熊宝宝》绘本（只读1遍防兴奋）3. 白噪音（雨声模式） | 🌙 小夜灯调至最暗档⏰ 设定22:00自动关闭白噪音
+
 
 📅 2025年4月27日（周日）日程安排
 气温：15-23℃ | 风力：微风 2 级 81.9kg
