@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ediie Blog</title><link>https://eddiehome220.github.io</link><description>童话是一种生活态度，仅此而已。</description><copyright>Ediie Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://eddiehome220.github.io</link></image><lastBuildDate>Wed, 21 Jan 2026 01:47:29 +0000</lastBuildDate><managingEditor>Ediie Blog</managingEditor><ttl>60</ttl><webMaster>Ediie Blog</webMaster><item><title>思维导图</title><link>https://eddiehome220.github.io/post/si-wei-dao-tu.html</link><description># 新建 DOCX 文档
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ediie Blog</title><link>https://eddiehome220.github.io</link><description>童话是一种生活态度，仅此而已。</description><copyright>Ediie Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://eddiehome220.github.io</link></image><lastBuildDate>Wed, 21 Jan 2026 05:54:00 +0000</lastBuildDate><managingEditor>Ediie Blog</managingEditor><ttl>60</ttl><webMaster>Ediie Blog</webMaster><item><title>思维导图</title><link>https://eddiehome220.github.io/post/si-wei-dao-tu.html</link><description># 新建 DOCX 文档
 
 ## 辅导员工作
 
@@ -116,7 +116,29 @@
 。</description><guid isPermaLink="true">https://eddiehome220.github.io/post/si-wei-dao-tu.html</guid><pubDate>Mon, 12 May 2025 07:59:37 +0000</pubDate></item><item><title>饮食管理2</title><link>https://eddiehome220.github.io/post/yin-shi-guan-li-2.html</link><description>做饭要求：早饭无要求、中午、晚饭2个肉菜1个素菜1个汤左右的配置。</description><guid isPermaLink="true">https://eddiehome220.github.io/post/yin-shi-guan-li-2.html</guid><pubDate>Tue, 06 May 2025 15:54:13 +0000</pubDate></item><item><title>👔衣柜</title><link>https://eddiehome220.github.io/post/%F0%9F%91%94-yi-gui.html</link><guid isPermaLink="true">https://eddiehome220.github.io/post/%F0%9F%91%94-yi-gui.html</guid><pubDate>Wed, 30 Apr 2025 01:17:01 +0000</pubDate></item><item><title>💪宝宝成长日记</title><link>https://eddiehome220.github.io/post/%F0%9F%92%AA-bao-bao-cheng-chang-ri-ji.html</link><description>6 月 29 日
 时间 | 活动类别 | 具体内容 | 能力目标 | 安全与注意事项
 -- | -- | -- | -- | --
-09:00-09:30 | 大运动：平衡 + 上肢 | 1. 过独木桥：- 地面贴 3 米长胶带 “独木桥” 或用 10-15cm 低平衡木，引导双手平举行走，终点放玩具激励。</description><guid isPermaLink="true">https://eddiehome220.github.io/post/%F0%9F%92%AA-bao-bao-cheng-chang-ri-ji.html</guid><pubDate>Sun, 27 Apr 2025 07:46:36 +0000</pubDate></item><item><title>📅日程管理</title><link>https://eddiehome220.github.io/post/%F0%9F%93%85-ri-cheng-guan-li.html</link><description># 📅2026 年 1 月 20 日（周二）工作日日程安排
+09:00-09:30 | 大运动：平衡 + 上肢 | 1. 过独木桥：- 地面贴 3 米长胶带 “独木桥” 或用 10-15cm 低平衡木，引导双手平举行走，终点放玩具激励。</description><guid isPermaLink="true">https://eddiehome220.github.io/post/%F0%9F%92%AA-bao-bao-cheng-chang-ri-ji.html</guid><pubDate>Sun, 27 Apr 2025 07:46:36 +0000</pubDate></item><item><title>📅日程管理</title><link>https://eddiehome220.github.io/post/%F0%9F%93%85-ri-cheng-guan-li.html</link><description>2026 年 1 月 21 日（周三）日程安排
+🌨️ 天气参考：杭州 小雨转多云，5-11℃，北风 3 级，建议穿羽绒服 + 加绒毛衣，携带防水雨伞
+👔 穿搭建议：家长穿深色西装套装 + 保暖秋衣，脚穿加绒皮鞋；给 Green 穿连体厚棉服 + 防滑棉鞋，外出戴围巾手套
+
+时间段 | 事项分类 | 具体内容 | 工具 / 注意事项 | 工作 / 亲子贴士
+-- | -- | -- | -- | --
+7:00-7:40 | 晨起准备 | 起床洗漱，整理仪容；吃早餐（牛奶 + 全麦面包 + 水煮蛋），检查当日工作文件是否带齐 | 公文包、工作台账、笔、手机充电器；早餐不宜过饱，避免上午犯困 | 提前一晚将成绩录入表格、优秀毕业生材料分类整理，方便白天使用
+7:40-8:20 | 通勤前往学校 | 驾车 / 乘公共交通上班，规划路线避开早高峰；到校后打卡，整理办公桌 | 校园通行卡、雨伞；雨天路滑，驾车减速慢行；公共交通预留候车时间 | 到办公室先查看工作群，确认有无临时通知
+8:20-12:00 | 上午日常工作 | 1. 处理学生日常咨询、回复工作邮件；2. 整理学院教学相关台账；3. 对接上级下发的通知文件 | 电脑、打印机、文件夹；按 “紧急 - 重要” 排序处理事务，避免遗漏 | 采用番茄工作法，每工作 40 分钟休息 5 分钟，提升效率
+12:00-13:30 | 午餐 + 午休 | 食堂就餐，选择清淡菜品；餐后在办公室小憩 20 分钟，或散步放松 | 饭盒（可选）、靠枕；午休时关闭门窗，避免着凉；散步注意防滑 | 午休不宜过长，防止下午精神不振
+13:30-14:30 | 录入成绩 | 登录教务系统，核对学生课程成绩信息；准确录入成绩数据，检查有无错录、漏录；保存并备份成绩表格 | 电脑、教务系统账号密码、U 盘；录入时仔细核对学生姓名和分数，避免出错 | 录完后抽查 10% 的数据，确保准确性
+14:30-15:30 | 整理优秀毕业生材料 | 筛选优秀毕业生申报材料，核对学业成绩、获奖证书、社会实践证明等；按学院要求分类装订，标注材料清单 | 文件夹、订书机、标签贴；证书复印件需与原件核对，确保真实有效 | 材料按 “个人信息 - 成绩 - 获奖 - 实践” 顺序整理，方便查阅
+15:30-16:30 | 手机微信清理备份同步 | 清理微信缓存、无用聊天记录、过期文件；备份重要聊天记录至电脑 / 云端；整理收藏夹，删除无效内容；开启自动同步功能 | 手机、电脑、数据线、备份软件；清理前备份重要文件，避免误删 | 按 “聊天记录→文件→收藏” 的顺序操作，提高效率
+16:30-17:20 | 通勤回家 | 收拾公文包，打卡下班；规划路线避开晚高峰；途中可听舒缓音乐放松 | 雨伞、通勤包；离开前检查办公室门窗、电源是否关闭 | 驾车时不看手机，专注路况；公共交通可梳理当日工作完成情况
+17:20-18:00 | 到家休整 + 亲子互动 | 换居家服，洗手消毒；陪 Green 玩积木 / 搭城堡，专注倾听孩子的小分享 | 居家服、积木、绘本；放下工作焦虑，全程不看手机 | 互动时多表扬孩子，增强其自信心
+18:00-18:30 | 晚餐时光 | 全家围坐用餐，给 Green 准备软烂辅食（去骨去刺、少盐少油）；分享当日趣事 | 儿童辅食碗、围兜、餐具；晚餐清淡为主，避免积食 | 用餐时营造轻松氛围，不催促孩子吃饭
+19:00-20:00 | 陪娃运动 | 带 Green 做室内亲子运动（如爬行比赛、蹲蹲跳、传球游戏）；若天气转好，可去小区散步骑车 | 儿童运动玩具、防滑地垫、头盔护膝（外出用）；运动时全程看护，避免磕碰 | 运动强度适中，以孩子开心为主，不强迫完成动作
+20:00-21:00 | 睡前准备 | 给 Green 洗澡（水温 38-40℃），涂抹婴儿润肤乳；刷牙（米粒大小含氟牙膏），换睡衣；家长同步洗漱 | 儿童洗护套装、软毛牙刷、睡衣；浴室铺防滑垫，洗头时避免泡沫进眼睛 | 洗澡时玩 “小黄鸭” 游戏，让孩子爱上清洁
+21:30-22:00 | 读绘本哄娃入睡 | 陪 Green 读睡前绘本（如《小熊宝宝》系列），轻拍背部哼唱摇篮曲；关闭电子设备，保持卧室昏暗安静 | 绘本、小夜灯；阅读时用夸张语气模仿角色，增加趣味性 | 建立固定流程，帮助孩子形成生物钟
+22:00-23:00 | 铝型材机箱研究 | 查阅铝型材机箱的组装教程、材质对比、散热方案；记录自用需求（如尺寸、兼容硬件、预算） | 电脑、笔记本、相关测评资料；可参考 DIY 论坛帖子，重点关注新手友好款 | 按 “需求 - 选型 - 组装步骤” 分类记录，方便后续整理
+23:00 后 | 就寝休息 | 洗漱完毕，上床休息；简单复盘当日工作，梳理次日待办事项 | 眼罩、耳塞（可选）；调节卧室温度，盖好被子防着凉 | 睡前 1 小时放下电子设备，提升睡眠质量
+
+# 📅2026 年 1 月 20 日（周二）工作日日程安排
 🌨️ 天气参考：杭州 阴转小雨，6-12℃，东北风 2 级，建议穿羽绒服 + 毛衣，携带折叠伞
 👔 穿搭建议：穿深色西装套装 + 加绒衬衫，内搭保暖秋衣，脚穿加绒皮鞋，兼顾正式感与保暖性
 
